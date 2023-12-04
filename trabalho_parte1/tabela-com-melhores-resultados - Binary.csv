@@ -1,0 +1,12 @@
+,,,,,
+,Algoritmos,Recall,Precision,Support,F1-score
+,LogisticRegression,0.82,0.8,234,0.81
+,MultinomialNB,0.65,0.79,234,0.71
+,KNeighborsClassifier,0.33,0.72,93,0.46
+,SVC,0.38,0.79,78,0.52
+,GaussianNB,0.66,0.67,234,0.67
+,SGDClassifier,0.84,0.79,234,0.81
+,DecisionTreeClassifier,0.79,0.76,234,0.77
+,RandomForestClassifier,0.38,0.83,78,0.53
+,QuadraticDiscriminantAnalysis,0.11,0.96,234,0.2
+,MLPClassifier,0.87,0.78,234,0.82
